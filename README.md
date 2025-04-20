@@ -1,9 +1,11 @@
-📊 ITOM Server Infrastructure Dashboard
+#📊 ITOM Server Infrastructure Dashboard
 ​
 
 🚀 Overview
 Welcome to the ITOM Server Infrastructure Dashboard, a comprehensive visualization tool built using ServiceNow. This dashboard offers real-time insights into your server infrastructure, facilitating effective monitoring and decision-making.​
 
+#DASHBOARD LINK :
+https://dev224162.service-now.com/now/platform-analytics-workspace/dashboards/params/edit/false/tab-sys-id/2079af81838d2210339b92d6feaad391/sys-id/a8796781838d2210339b92d6feaad3da
 🧰 Features
 Operating System Distribution – Pie Chart
 
