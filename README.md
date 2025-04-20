@@ -1,10 +1,10 @@
-# ITOM_Server_Infrastructure_Dashboard
+📊 ITOM Server Infrastructure Dashboard
+​
 
-This repository contains the configuration and documentation for the IT Operations Management (ITOM) Server Infrastructure Dashboard developed using ServiceNow. The dashboard provides a comprehensive overview of the server infrastructure, facilitating real-time monitoring and analysis.​
+🚀 Overview
+Welcome to the ITOM Server Infrastructure Dashboard, a comprehensive visualization tool built using ServiceNow. This dashboard offers real-time insights into your server infrastructure, facilitating effective monitoring and decision-making.​
 
-📊 Dashboard Features
-The dashboard includes the following visualizations:​
-
+🧰 Features
 Operating System Distribution – Pie Chart
 
 OS Version Breakdown – Semi-Donut Chart
@@ -20,22 +20,15 @@ CPU Type Distribution – Donut Chart
 Total Servers – Single Score Widget
 
 CPU Manufacturer Count – Single Score Widget​
-The GitHub Blog
-+5
-Atlassian
-+5
-Stack Overflow
-+5
-GeeksforGeeks
 
-⚙️ Technologies Used
-ServiceNow – For creating and managing the ITOM dashboard.
+🛠️ Technologies Used
+ServiceNow – Platform for dashboard creation and management
 
-CMDB (cmdb_ci_server) – Data source for server information.
+CMDB (cmdb_ci_server) – Primary data source for server information
 
-Performance Analytics – For creating visualizations and widgets.​
+Performance Analytics – Tool for creating visualizations and widgets
 
-🛠️ Setup Instructions
+📝 Setup Instructions
 Access ServiceNow Instance: Log in to your ServiceNow instance.
 
 Navigate to Dashboards: Go to Self-Service > Dashboards.
@@ -44,5 +37,8 @@ Create New Dashboard: Click on Create New Dashboard and provide a name and descr
 
 Add Widgets: Use the Add Content option to include the visualizations listed above.
 
-Configure Data Sources: Ensure that each widget is connected to the appropriate data source (cmdb_ci_server) and configured correctly.
+Configure Data Sources: Ensure that each widget is connected to the appropriate data source (cmdb_ci_server) and configured correctly.​
 
+📸 Screenshot of Final Dashboard:
+
+(https://github.com/user-attachments/assets/9fb4c3f8-73dc-4fae-b9bf-718866c4c41c)
